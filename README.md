@@ -74,3 +74,7 @@ Arch Installation with i3-gaps and polybar.
 
 ![Desktop](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/mydesktop/desktop1.png)
 ![Neofetch, Htop & Cmatrix](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/mydesktop/desktop2.png)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=shivajichalise&&style=flat" align="center" />
+</div>
