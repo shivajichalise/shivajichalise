@@ -53,12 +53,12 @@
 ### Connect with me
 
 <div align="center">
-<a href="https://facebook.com/theshivajichalise" target="_blank"><img alt="facebook" width="40" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/fb.svg" style="margin: 10px" /></a>
+<a href="https://facebook.com/theshivajichalise" target="_blank"><img alt="facebook" width="40px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/fb.svg" style="margin: 10px" /></a>
 <a href="https://instagram.com/shivajichalise" target="_blank"><img  alt="instagram" width="40px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/instagram.svg" style="margin: 10px"/></a>
 <a href="https://snapchat.com/add/literallyshiv" target="_blank"><img alt="snapchat" width="40px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/sc.svg" style="margin: 10px"/></a>
 <a href="https://twitter.com/alphaxjr" target="_blank"><img alt="twitter" width="40px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/twitter.svg" style="margin: 10px"/></a>
-<a href="https://www.youtube.com/channel/UCqE0hGR31rln3XShQa6NGFA?sub_confirmation=1" target="_blank"><img alt="youtube" width="40px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/ytb.svg" style="margin: 10px"/></a>
-<a href="https://letterboxd.com/shivajichalise/" target="_blank"><img alt="letterboxd" width="33px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/letterboxd.png" style="margin: 10px"/></a>
+<a href="https://www.youtube.com/channel/UCqE0hGR31rln3XShQa6NGFA?sub_confirmation=1" target="_blank"><img alt="youtube" width="42px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/ytb.svg" style="margin: 10px"/></a>
+<a href="https://letterboxd.com/shivajichalise/" target="_blank"><img alt="letterboxd" width="45px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/letterboxd.png" style="margin: 10px"/></a>
 </div>
 
 ### Github Stats
