@@ -7,8 +7,6 @@
 - 💻 I sometimes upload tutorials on [youtube](https://www.youtube.com/channel/UCqE0hGR31rln3XShQa6NGFA?sub_confirmation=1)
 - 🐧 I use Arch btw
 
-<br/>
-
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
@@ -52,20 +50,16 @@
 
 </td></tr></table>
 
-<br/>
-
 ### Connect with me
 
 <div align="center">
-<a href="https://facebook.com/theshivajichalise" target="_blank"><img alt="facebook" width="30px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/fb.svg" style="margin-right: 3px" /></a>
-<a href="https://instagram.com/shivajichalise" target="_blank"><img  alt="instagram" width="30px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/instagram.svg" style="margin-right: 3px"/></a>
-<a href="https://snapchat.com/add/literallyshiv" target="_blank"><img alt="snapchat" width="30px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/sc.svg" style="margin-right: 3px"/></a>
-<a href="https://twitter.com/alphaxjr" target="_blank"><img alt="twitter" width="30px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/twitter.svg" style="margin-right: 3px"/></a>
-<a href="https://www.youtube.com/channel/UCqE0hGR31rln3XShQa6NGFA?sub_confirmation=1" target="_blank"><img alt="youtube" width="30px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/ytb.svg" style="margin-right: 3px"/></a>
-<a href="https://letterboxd.com/shivajichalise/" target="_blank"><img alt="letterboxd" width="33px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/letterboxd.png" style="margin-right: 3px"/></a>
+<a href="https://facebook.com/theshivajichalise" target="_blank"><img alt="facebook" width="40" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/fb.svg" style="margin: 10px" /></a>
+<a href="https://instagram.com/shivajichalise" target="_blank"><img  alt="instagram" width="40px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/instagram.svg" style="margin: 10px"/></a>
+<a href="https://snapchat.com/add/literallyshiv" target="_blank"><img alt="snapchat" width="40px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/sc.svg" style="margin: 10px"/></a>
+<a href="https://twitter.com/alphaxjr" target="_blank"><img alt="twitter" width="40px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/twitter.svg" style="margin: 10px"/></a>
+<a href="https://www.youtube.com/channel/UCqE0hGR31rln3XShQa6NGFA?sub_confirmation=1" target="_blank"><img alt="youtube" width="40px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/ytb.svg" style="margin: 10px"/></a>
+<a href="https://letterboxd.com/shivajichalise/" target="_blank"><img alt="letterboxd" width="33px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/letterboxd.png" style="margin: 10px"/></a>
 </div>
-
-<br />
 
 ### Github Stats
 
@@ -73,8 +67,6 @@
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Shivaji Chalise's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivajichalise&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
 
 ### My Desktop:
 
