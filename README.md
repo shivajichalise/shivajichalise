@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/banner.png)
 
-### <div align="center">Yo! I'm Shiva, an aspiring full stack web developer 👨‍💻 </div>
+### <div align="center">Yo! <img src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/rickastley.gif" style="margin: 10px" width="25px" /> I'm Shiva, an aspiring full stack web developer 👨‍💻 </div>
 
 - 🔭 I’m currently learning [MERN Stack](https://www.mongodb.com/mern-stack)
 - 👨‍💻 Linux/Unix enthusiast
