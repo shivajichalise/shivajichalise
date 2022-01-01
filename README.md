@@ -1,13 +1,10 @@
 ![Banner](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/banner.png)
 
-### <div align="center">Yo! I'm Shiva, an aspiring full stack developer 👨‍💻 </div>
+### <div align="center">Yo! I'm Shiva, an aspiring full stack web developer 👨‍💻 </div>
 
 - 🔭 I’m currently learning [MERN Stack](https://www.mongodb.com/mern-stack)
-
 - 👨‍💻 Linux/Unix enthusiast
-
 - 💻 I sometimes upload tutorials on [youtube](https://www.youtube.com/channel/UCqE0hGR31rln3XShQa6NGFA?sub_confirmation=1)
-
 - 🐧 I use Arch btw
 
 <br/>
@@ -60,21 +57,22 @@
 ### Connect with me
 
 <div align="center">
-<a href="https://facebook.com/theshivajichalise" target="_blank"><img align="left" alt="facebook" width="22px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/3ffc7a2ef7ee262fca7401d172e87b92d6bf6dd2/images/fb.svg" /></a>
-<a href="https://instagram.com/shivajichalise" target="_blank"><img align="left" alt="instagram" width="22px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/3ffc7a2ef7ee262fca7401d172e87b92d6bf6dd2/images/instagram.svg" /></a>
-<a href="https://snapchat.com/add/literallyshiv" target="_blank"><img align="left" alt="snapchat" width="22px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/3ffc7a2ef7ee262fca7401d172e87b92d6bf6dd2/images/sc.svg" /></a>
-<a href="https://twitter.com/alphaxjr" target="_blank"><img align="left" alt="twitter" width="22px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/3ffc7a2ef7ee262fca7401d172e87b92d6bf6dd2/images/twitter.svg" /></a>
-<a href="https://www.youtube.com/channel/UCqE0hGR31rln3XShQa6NGFA?sub_confirmation=1" target="_blank"><img align="left" alt="youtube" width="22px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/7c6e7e48fa64c179f74f84ade414755b9433a834/images/ytb.svg" /></a>
-<a href="https://letterboxd.com/shivajichalise/" target="_blank"><img align="left" alt="letterboxd" width="25px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/letterboxd.png" /></a>
+<a href="https://facebook.com/theshivajichalise" target="_blank"><img alt="facebook" width="22px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/fb.svg" /></a>
+<a href="https://instagram.com/shivajichalise" target="_blank"><img  alt="instagram" width="22px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/instagram.svg" /></a>
+<a href="https://snapchat.com/add/literallyshiv" target="_blank"><img alt="snapchat" width="22px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/sc.svg" /></a>
+<a href="https://twitter.com/alphaxjr" target="_blank"><img alt="twitter" width="22px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/twitter.svg" /></a>
+<a href="https://www.youtube.com/channel/UCqE0hGR31rln3XShQa6NGFA?sub_confirmation=1" target="_blank"><img alt="youtube" width="22px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/d4cfd185ef504231c5ccfc03b5474edb4e60d237/images/ytb.svg" /></a>
+<a href="https://letterboxd.com/shivajichalise/" target="_blank"><img alt="letterboxd" width="25px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/letterboxd.png" /></a>
 </div>
 
 <br />
 
 ### Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivajichalise&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivajichalise&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=shivajichalise&show_icons=true&count_private=true&hide_border=true" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivajichalise&hide_border=true&layout=compact" align="right" />
+</div>
 
 <br/>
 
