@@ -72,16 +72,17 @@
 ### Github Contribution Graph
 
 <p align="center">
-<a href="https://github.com/shivajichalise">
-<img alt="Shivaji Chalise Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shivajichalise&bg_color=0D1117&color=0D1016&line=48A0BA&point=FFFFFF&hide_border=true&" />
-</a>
+  <a href="https://github.com/shivajichalise">
+<img alt="Sabin Baniya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shivajichalise&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  </a>
 </p>
 
 ### Github Achievements
 
-<p align="center"><a href="https://github.com/shivajichalise"><img src="https://github-profile-trophy.vercel.app/?username=shivajichalise&margin-w=5&theme=tokyonoght" alt="Shivaji Chalise's Github Trophies" /></a> </p>
+<p align="center"><a href="https://github.com/shivajichalise"><img src="https://github-profile-trophy.vercel.app/?username=shivajichalise&margin-w=5&theme=tokyonight" alt="Shivaji Chalise's Github Trophies" /></a> </p>
 
 <br>
+
 ### My Desktop:
 
 Arch Installation with i3-gaps and polybar.
@@ -90,5 +91,5 @@ Arch Installation with i3-gaps and polybar.
 ![Neofetch, Htop & Cmatrix](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/mydesktop/desktop2.png)
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=shivajichalise&&style=flat" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=shivajichalise&&style=flat" align="center" />
 </div>
