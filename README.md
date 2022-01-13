@@ -72,14 +72,14 @@
 ### Github Contribution Graph
 
 <p align="center">
-<a href="https://github.com/shivajichalise“>
+<a href="https://github.com/shivajichalise">
 <img alt="Shivaji Chalise Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shivajichalise&bg_color=0D1117&color=0D1016&line=48A0BA&point=FFFFFF&hide_border=true&" />
 </a>
 </p>
 
 ### Github Achievements
 
-<p align="center"><a href="https://github.com/shivajichalise“><img src="https://github-profile-trophy.vercel.app/?username=shivajichalise&margin-w=5&theme=tokyonoght" alt="Shivaji Chalise's Github Trophies" /></a> </p>
+<p align="center"><a href="https://github.com/shivajichalise"><img src="https://github-profile-trophy.vercel.app/?username=shivajichalise&margin-w=5&theme=tokyonoght" alt="Shivaji Chalise's Github Trophies" /></a> </p>
 
 <br>
 ### My Desktop:
