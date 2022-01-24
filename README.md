@@ -69,13 +69,13 @@
 </p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-### Github Contribution Graph
+<!-- ### Github Contribution Graph -->
 
-<p align="center">
-  <a href="https://github.com/shivajichalise">
-<img alt="Sabin Baniya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shivajichalise&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-  </a>
-</p>
+<!-- <p align="center"> -->
+<!--   <a href="https://github.com/shivajichalise"> -->
+<!-- <img alt="Shivaji Chalise's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shivajichalise&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> -->
+<!--   </a> -->
+<!-- </p> -->
 
 ### Github Achievements
 
