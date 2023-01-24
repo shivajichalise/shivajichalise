@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/banner.png)
 
-### <div align="center">Yo! <img src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/rickastley.gif" style="margin: 10px" width="25" /> I'm Shiva, an aspiring DevOps Engineer 👨‍💻 </div>
+### <div align="center">Yo! <img src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/rickastley.gif" width="25" /> I'm Shiva, an aspiring DevOps Engineer 👨‍💻 </div>
 
 - 🔭 I’m currently learning [MERN Stack](https://www.mongodb.com/mern-stack)
 - 👨‍💻 Linux/Unix enthusiast
@@ -61,13 +61,13 @@
 <a href="https://letterboxd.com/shivajichalise/" target="_blank"><img alt="letterboxd" width="45px" src="https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/letterboxd.png" style="margin: 10px"/></a>
 </div>
 
-### Github Stats
+<!-- ### Github Stats -->
 
-<p align="center">
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img height="180em" alt="Shivaji Chalise's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivajichalise&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img height="180em" alt="Shivaji Chalise's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivajichalise&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!-- <p align="center"> -->
+<!-- <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img height="180em" alt="Shivaji Chalise's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivajichalise&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+<!-- <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img height="180em" alt="Shivaji Chalise's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivajichalise&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+<!-- </p> -->
+<!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
 <!-- ### Github Contribution Graph -->
 
@@ -77,18 +77,18 @@
 <!--   </a> -->
 <!-- </p> -->
 
-### Github Achievements
+<!-- ### Github Achievements -->
 
-<p align="center"><a href="https://github.com/shivajichalise"><img src="https://github-profile-trophy.vercel.app/?username=shivajichalise&margin-w=5&theme=tokyonight" alt="Shivaji Chalise's Github Trophies" /></a> </p>
+<!-- <p align="center"><a href="https://github.com/shivajichalise"><img src="https://github-profile-trophy.vercel.app/?username=shivajichalise&margin-w=5&theme=tokyonight" alt="Shivaji Chalise's Github Trophies" /></a> </p> -->
 
-<br>
+<!-- <br> -->
 
-### My Desktop:
+<!-- ### My Desktop: -->
 
-Arch Installation with i3-gaps and polybar.
+<!-- Arch Installation with i3-gaps and polybar. -->
 
-![Desktop](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/mydesktop/desktop1.png)
-![Neofetch, Htop & Cmatrix](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/mydesktop/desktop2.png)
+<!-- ![Desktop](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/mydesktop/desktop1.png) -->
+<!-- ![Neofetch, Htop & Cmatrix](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/mydesktop/desktop2.png) -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shivajichalise&&style=flat" align="center" />
