@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/banner.png)
 
-### Yo! <img src="https://github.com/shivajichalise/shivajichalise/blob/main/images/rickastley.gif" width="25"> I'm Shiva.
+### Yo! <img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif" width="20"> I'm Shiva.
 
 - I’m currently experimenting with tech to figure out my jam.
 - Feel free to ask me anything. I might not know squat, but I'll give it my best shot! :p
@@ -27,7 +27,7 @@
 <table>
     <tr>
         <td valign="top" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=shivajichalise&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+            <img src="https://github-readme-stats.vercel.app/api?username=shivajichalise&theme=dark&hide_border=true&include_all_commits=false&count_private=false" align="left" style="width: 100%" />
         </td>
         <td valign="top" width="50%">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivajichalise&theme=dark&hide_border=true" align="left" style="width: 100%" />
@@ -35,10 +35,8 @@
     </tr>
 </table>
 
-### 😂 Random Dev Meme
+### Random Dev Meme
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=shivajichalise&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+    <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
