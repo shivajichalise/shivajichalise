@@ -27,10 +27,10 @@
 <table>
     <tr>
         <td valign="top" width="50%">
-            ![](https://github-readme-stats.vercel.app/api?username=shivajichalise&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+            <img src="https://github-readme-stats.vercel.app/api?username=shivajichalise&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
         </td>
         <td valign="top" width="50%">
-            ![](https://github-readme-streak-stats.herokuapp.com/?user=shivajichalise&theme=dark&hide_border=true)<br/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivajichalise&theme=dark&hide_border=true" align="left" style="width: 100%" />
         </td>
     </tr>
 </table>
