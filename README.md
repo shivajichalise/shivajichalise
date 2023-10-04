@@ -1,10 +1,10 @@
 ![Banner](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/banner.png)
 
-### <div align="center">Yo! <img src="https://github.com/shivajichalise/shivajichalise/blob/main/images/rickastley.gif" width="25" /> I'm Shiva, an aspiring DevOps Engineer 👨‍💻 </div>
+### <div align="center">Yo! ![never gonna give you up](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/rickastley.gif) <img src="https://github.com/shivajichalise/shivajichalise/blob/main/images/rickastley.gif" width="25" /> I'm Shiva, an aspiring DevOps Engineer 👨‍💻 </div>
 
-- 🔭 I’m currently learning [MERN Stack](https://www.mongodb.com/mern-stack)
+<!-- - 🔭 I’m currently learning [MERN Stack](https://www.mongodb.com/mern-stack) -->
 <!-- - 👨‍💻 Linux/Unix enthusiast -->
-- 💻 I sometimes upload tutorials on [Youtube](https://www.youtube.com/channel/UCqE0hGR31rln3XShQa6NGFA?sub_confirmation=1)
+<!-- - 💻 I sometimes upload tutorials on [Youtube](https://www.youtube.com/channel/UCqE0hGR31rln3XShQa6NGFA?sub_confirmation=1) -->
 <!-- - 🐧 I use Arch btw -->
 
 <!-- ## My Skill Set -->
@@ -90,6 +90,6 @@
 <!-- ![Desktop](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/mydesktop/desktop1.png) -->
 <!-- ![Neofetch, Htop & Cmatrix](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/mydesktop/desktop2.png) -->
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivajichalise&&style=flat" align="center" />
-</div>
+<!-- <div align="center"> -->
+<!--   <img src="https://komarev.com/ghpvc/?username=shivajichalise&&style=flat" align="center" /> -->
+<!-- </div> -->
