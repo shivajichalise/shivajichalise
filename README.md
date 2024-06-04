@@ -3,6 +3,9 @@
 ### Yo! <img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif" width="20"> I'm Shiva.
 
 - I’m currently experimenting with tech to figure out my jam.
+- I mostly work with Laravel, MySQL, Node.js, React, Express.js, Git, Bootstrap CSS, Tailwind CSS.
+- I've also explored PostgreSQL, Bash, Docker, Solidity, Ant Design, DaisyUI etc.
+- I'm also diving into Rust whenever I catch a breather.
 - Feel free to ask me anything. I might not know squat, but I'll give it my best shot! :p
 
 ### Connect with me
@@ -31,9 +34,3 @@
         </td>
     </tr>
 </table>
-
-### Random Dev Meme
-
-<div align="center">
-    <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</div>
