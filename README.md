@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/banner.png)
 
-### Yo! <img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif" width="20">
+### Yo! ![](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/rick-astley-20.gif)
 
 Full Stack Engineer with a knack for crafting clean, well-tested, and performant code.
 
