@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/banner.png)
 
-### Backend Engineer, *passionate about building reliable systems.*
+<!-- ### Backend Engineer, *passionate about building reliable systems.* -->
 
 <!-- <table> -->
 <!--     <tr> -->
