@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/banner.png)
 
-### Yo! ![](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/rick-astley-20.gif)
+### Backend Engineer, *passionate about building reliable systems.*
 
 ## Github Stats
 
