@@ -2,13 +2,6 @@
 
 ### Yo! ![](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/rick-astley-20.gif)
 
-Full Stack Engineer with a knack for crafting clean, well-tested, and performant code.
-
-- Mostly work with Laravel, MySQL, Node.js, React, Express.js, Git, Bootstrap CSS, Tailwind CSS.
-- I've also explored PostgreSQL, Bash, Docker, Solidity, Ant Design, DaisyUI etc.
-- I'm also diving into Rust whenever I catch a breather.
-- Feel free to ask me anything. I might not know squat, but I'll give it my best shot! :p
-
 ## Github Stats
 
 <table>
