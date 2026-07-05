@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/banner.png)
+<!-- ![Banner](https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/banner.png) -->
 
 <!-- ### Backend Engineer, *passionate about building reliable systems.* -->
 
